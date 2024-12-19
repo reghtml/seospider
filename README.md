@@ -1,6 +1,6 @@
 # seospider
 
-SEO自动外链蜘蛛池  详细介绍： https://www.hou4.com/s2
+SEO自动外链蜘蛛池  详细介绍  软件下载：  [https://www.niu5.com/soft/2](https://www.niu5.com/soft/2)
 
 
 工具集成市面上所有自动外链网站的资源链接，经过合并、去重、筛选、验证 总结出最终的外链资源 ，软件实时更新
@@ -56,7 +56,7 @@ image
 
 
 
-软件下载：https://www.hou4.com/s2.zip
+软件下载： [https://www.niu5.com/soft/2.zip](https://www.niu5.com/soft/2.zip)
 
 
 
